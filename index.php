@@ -16,7 +16,7 @@
 <html>
    <head>
       <script language="JavaScript" type="text/javascript" src="jquery-2.1.4.min.js"></script>     
-      <script src="http://maps.google.com/maps/api/js?key=YOUR_API_KEY&libraries=geometry"></script>
+      <script src="http://maps.google.com/maps/api/js?key=AIzaSyDvq-I0pKous0qH6jiNviSpKcZIFyaQ150&libraries=geometry"></script>
       <script type="text/javascript">
          var map;
          var poly;
